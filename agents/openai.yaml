@@ -1,0 +1,3 @@
+interface:
+  display_name: "FM26 球探截图分析师"
+  short_description: "根据 FM Scout Engine/FMST26 球员截图评估球员并给出战术、角色、位置和训练建议。"
